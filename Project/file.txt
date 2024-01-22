@@ -1,0 +1,12 @@
+
+{ The username Abdoul-Hakim was recorded as logging in at the time of: 2022-12-30T17:27:58.980710800 }
+[ Started playing against a friend at :17:28:08.877093300 ]
+[ Started playing against a robot at :17:28:21.572147400 ]
+[ Started playing against a robot at :17:28:39.073136300 ]
+[ Started playing against a robot at :17:28:48.892148800 ]
+{ The username Samba was recorded as logging in at the time of: 2022-12-30T17:29:24.269763900 }
+[ Started playing against a robot at :17:29:28.964057800 ]
+[ Started playing against a friend at :17:29:38.731154100 ]
+
+{ The username Abdoul was recorded as logging in at the time of: 2023-01-03T10:05:18.901180700 }
+[ Started playing against a robot at :10:05:26.451348900 ]
